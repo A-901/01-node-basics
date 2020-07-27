@@ -1,0 +1,24 @@
+{
+  "name": "home1",
+  "version": "1.0.0",
+  "description": "work1",
+  "main": "index.js",
+  "dependencies": {
+    "uniqid": "^5.2.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-901/01-node-basics.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
